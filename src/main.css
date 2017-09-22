@@ -1,0 +1,40 @@
+h1.centered {
+  text-align: center;
+  color: #E7E7E7;
+  font-family: "delafuente";
+  font-size: 9em;
+  letter-spacing: 10px;
+}
+
+h3.centered {
+  text-align: center;
+  color: #C79D9D;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  letter-spacing: 2px;
+}
+
+body {
+  background-color: #242424
+}
+
+p.project-desc {
+  text-align: center;
+  color: #E7E7E7;
+  font-size: 1em;
+  font-family: "Montserrat"
+}
+
+p.view-project {
+  text-align: center;
+  color: #C79D9D;
+  margin-top: 60px;
+  font-family: "Montserrat"
+}
+
+.topnav {
+  text-align: center;
+  padding: 20px;
+  color: #C79D9D;
+  font-family: "Montserrat"
+}
